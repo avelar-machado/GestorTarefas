@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gestor Tarefas</string>
+    <string name="BtnAddTask">Adicionar</string>
+    <string name="EditTask">Adicionar tarefa</string>
+</resources>
